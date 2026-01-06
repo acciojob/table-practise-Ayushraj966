@@ -6,6 +6,10 @@
 	border:1px solid black;
 }
 
-#cap {
-	color: red;
+.stats caption {
+    caption-side: top;      /* top or bottom */
+    text-align: center;     /* center horizontally */
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
 }
